@@ -1,0 +1,9 @@
+name: Template
+version: 1.0
+main: me.awfulmatt.template.Main
+description: yes
+api-version: 1.13
+commands:
+    temp:
+        description: no
+        usage: /temp
